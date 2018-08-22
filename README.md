@@ -1,0 +1,2 @@
+# socks
+proxy telegram
